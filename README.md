@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RondellBKing
-- 👀 I’m interested in math, financial modeling, python, sql and javascript
+- 👀 I’m interested in math, financial modeling, python, sql, kdb and javascript
 - 📫 How to reach me @KingStack08@gmail.com
 
 <!---
